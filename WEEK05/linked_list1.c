@@ -47,4 +47,6 @@ int main() {
     free(node1);
     // 머리 노드 메모리 해제
     free(head);
+
+    return 0;
 }
